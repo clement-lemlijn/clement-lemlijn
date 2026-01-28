@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/>
 </p>
 
-<script src="https://gist.github.com/clement-lemlijn/cf60a0afa6fd21f22d3f68a23333f78c.js"></script>
+<script src="https://gist.github.com/clement-lemlijn/b80ca6fb20e7f9fbe488dbd7cc24a6f6.js"></script>
 
 ---
 
