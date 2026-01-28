@@ -7,26 +7,42 @@
 
 ---
 
+## 👨‍💻 I have experience with:
+
+### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title="ASP.NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/liquibase/liquibase-original.svg" width="40" title="Liquibase"/>
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/>
+</p>
+
+---
+
 ## 📖 Education
 
 - 🧪 **Secondary School** at **Athénée Royal d’Arlon** | _Sciences – Math – Computer Science_
 - 👨‍💻 **Bachelor in Application Analysis and Development** at **HELMo** | _Sept. 2022 – June 2025_
-
----
-
-## 👨‍💻 I have experience with:
-
-**Languages:**  
-`Java`, `C#`, `JavaScript`, `TypeScript`, `SQL`, `HTML/CSS`, `Python`
-
-**Frameworks & Libraries:**  
-`Angular`, `Spring Boot`, `ASP.NET`, `Liquibase`, `Bootstrap`
-
-**Tools:**  
-`Git`, `PostgreSQL`, `Confluence`, `Jira`, `Bitbucket`, `IntelliJ IDEA`, `Visual Studio Code`, `JetBrains Fleet`
-
-**Suites:**  
-`Google Workspace`, `JetBrains`, `Microsoft Office`
 
 ---
 
