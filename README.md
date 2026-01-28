@@ -61,6 +61,6 @@
   → Wrote and debugged **ABAP code** for internal financial workflows  
   → Contributed to improving UX for internal users in financial operations
 
-  👨‍💻 **My Daily Loop:** <br/>
+##  👨‍💻 **My Daily Loop:** <br/>
 [![Gist](https://img.shields.io/badge/Code-Developer_Life-orange?logo=github)](https://gist.github.com/clement-lemlijn/b80ca6fb20e7f9fbe488dbd7cc24a6f6)
 
