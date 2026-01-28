@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Clément Lemlijn
 
 🎓 I'm a **graduate in Application Analysis and Development** from HELMo.
-
 🎓 Currently studying **System Architecture** at HEPL.
 
 🚀 Passionate about **technology**, **clean architecture**, and building **reliable real-time applications**, especially in fields like **emergency response**, **IoT**, and **systems integration**.
