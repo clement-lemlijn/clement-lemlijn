@@ -37,8 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code"/>
 </p>
 
-<script src="https://gist.github.com/clement-lemlijn/b80ca6fb20e7f9fbe488dbd7cc24a6f6.js"></script>
-
 ---
 
 ## 📖 Education
@@ -62,3 +60,7 @@
   → Integrated simplified SAP Fiori screens using **Personas Technology**  
   → Wrote and debugged **ABAP code** for internal financial workflows  
   → Contributed to improving UX for internal users in financial operations
+
+  👨‍💻 **My Daily Loop:** <br/>
+[![Gist](https://img.shields.io/badge/Code-Developer_Life-orange?logo=github)](https://gist.github.com/clement-lemlijn/b80ca6fb20e7f9fbe488dbd7cc24a6f6)
+
