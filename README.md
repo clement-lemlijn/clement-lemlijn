@@ -7,7 +7,31 @@
 
 ---
 
-## 👨‍💻 I have experience with:
+## 📖 Education
+
+- 🧪 **Secondary School** at **Athénée Royal d’Arlon** | _Sciences – Math – Computer Science_
+- 👨‍💻 **Bachelor in Application Analysis and Development** at **HELMo** | _Sept. 2022 – June 2025_
+
+---
+
+## 👷 Experience
+
+- 🔥 **Internship at NSI** – Development of the **Fire** web application  
+  _Feb. 2025 – May 2025_  
+  → Web app to manage building evacuations in real-time (Angular, Spring Boot, WebSockets)
+
+- 🧠 **SALTo Programme** by HELMo | _Sept. 2023 – June 2024_  
+  → Developed **"Dimension Sport"**, a PWA for managing and promoting inclusive sports activities
+
+- 💼 **Student Job at RTL Group** – Financial Transaction Systems (FTS) Team  
+  _Summer 2024_  
+  → Integrated simplified SAP Fiori screens using **Personas Technology**  
+  → Wrote and debugged **ABAP code** for internal financial workflows  
+  → Contributed to improving UX for internal users in financial operations
+
+---
+
+## 👨‍💻 I usually work with:
 
 ### Languages
 <p align="left">
@@ -38,28 +62,6 @@
 </p>
 
 ---
-
-## 📖 Education
-
-- 🧪 **Secondary School** at **Athénée Royal d’Arlon** | _Sciences – Math – Computer Science_
-- 👨‍💻 **Bachelor in Application Analysis and Development** at **HELMo** | _Sept. 2022 – June 2025_
-
----
-
-## 👷 Experience
-
-- 🔥 **Internship at NSI** – Development of the **Fire** web application  
-  _Feb. 2025 – May 2025_  
-  → Web app to manage building evacuations in real-time (Angular, Spring Boot, WebSockets)
-
-- 🧠 **SALTo Programme** by HELMo | _Sept. 2023 – June 2024_  
-  → Developed **"Dimension Sport"**, a PWA for managing and promoting inclusive sports activities
-
-- 💼 **Student Job at RTL Group** – Financial Transaction Systems (FTS) Team  
-  _Summer 2024_  
-  → Integrated simplified SAP Fiori screens using **Personas Technology**  
-  → Wrote and debugged **ABAP code** for internal financial workflows  
-  → Contributed to improving UX for internal users in financial operations
 
 ##  👨‍💻 **My Daily Loop:** <br/>
 [![Gist](https://img.shields.io/badge/Code-Developer_Life-orange?logo=github)](https://gist.github.com/clement-lemlijn/b80ca6fb20e7f9fbe488dbd7cc24a6f6)
